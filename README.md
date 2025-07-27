@@ -1,2 +1,11 @@
 # Music-Sheets-Recognition
-Trying two different kinds of OMR (Optical Music Recognition) techniques: heuristic-based and machine learning-based.
+
+We tried two main techniques.
+
+## Heuristic-based Technique (Audiveris)
+
+Using Java implementaion.
+
+## Machine learning-based Technique (Oemer and Homr)
+
+Homr is a combination of two main architectures: Oemer (Preprocessing) + TrOMR (End-to-End recognition)
